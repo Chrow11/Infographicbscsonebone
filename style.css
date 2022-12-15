@@ -1,0 +1,240 @@
+body {
+	background-color: #e1f2e6;
+}
+
+#container {
+	background-color: #d6ffd4;
+	width: 1000px;
+	margin: auto;
+}
+
+#header {
+	background-color: #458542;
+	color: #131f13;
+	padding: 0.1px;
+	text-align: center;
+}
+
+#header .title {
+	line-height: 0.9;
+	font-family: copperplate, fantasy;
+	font-size: 100px;
+}
+
+#header .laptop {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	padding-bottom: 0px;
+}
+
+#content {
+	font-family: Verdana, san-serifs;
+}
+
+#description {
+	background-color: #4fba4a;
+	padding: 10px;
+	padding-left: 3%;
+}
+
+#description .desk {
+	font-size: 20px;
+	padding-right: 3%;
+}
+
+#description .girlhead {
+	width: 60%;
+}
+
+
+#main {
+	width: 1000px;
+	float: center;
+	background-color: #bdf7a6;
+	padding: 1px;
+}
+
+#main .first {
+	padding-left: 3%;
+	font-size: 20px;
+	padding-right: 3%;
+}
+
+#main .hfirst {
+	font-family: copperplate, fantasy;
+	font-size: 60px;
+	padding-left: 3%;
+	color: #131f13;
+}
+
+#main .step1{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#main2 {
+	width: 1000px;
+	float: center;
+	background-color: #79fa73;
+	padding: 1px;
+}
+
+#main2 .second {
+	padding-left: 3%;
+	font-size: 20px;
+	padding-right: 3%;
+}
+
+#main2 .hsecond {
+	font-family: copperplate, fantasy;
+	font-size: 60px;
+	padding-left: 3%;
+	color: #131f13;
+}
+
+#main2 .step2 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#main3 {
+	width: 1000px;
+	float: center;
+	background-color: #bdf7a6;
+	padding: 1px;	
+}
+
+#main3 .third {
+	padding-left: 3%;
+	font-size: 20px;
+	padding-right: 3%;
+}
+
+#main3 .hthird {
+	font-family: copperplate, fantasy;
+	font-size: 60px;
+	padding-left: 3%;
+	color: #131f13;
+}
+
+#main3 .pog1 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#main4 {
+	width: 1000px;
+	float: center;
+	background-color: #79fa73; 
+	padding: 1px;
+}
+
+#main4 .fourth {
+	padding-left: 3%;
+	font-size: 20px;
+	padding-right: 3%;
+}
+
+#main4 .hfourth {
+	font-family: copperplate, fantasy;
+	font-size: 60px;
+	padding-left: 3%;
+	color: #131f13;
+}
+
+#main4 .step4{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#main5 {
+	width: 1000px;
+	float: center;
+	background-color: #bdf7a6;
+	padding: 1px;	
+}
+
+#main5 .fifth {
+	padding-left: 3%;
+	font-size: 20px;
+	padding-right: 3%;
+}
+
+#main5 .hfifth {
+	font-family: copperplate, fantasy;
+	font-size: 60px;
+	padding-left: 3%;
+	color: #131f13;
+}
+
+#main5 .step5 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#main6 {
+	width: 1000px;
+	float: center;
+	background-color: #79fa73; 
+	padding: 1px;
+}
+
+#main6 .sixth {
+	padding-left: 3%;
+	font-size: 20px;
+	padding-right: 3%;
+}
+
+#main6 .hsixth {
+	font-family: copperplate, fantasy;
+	font-size: 60px;
+	padding-left: 3%;
+	color: #131f13;
+}
+
+#main6 .step6 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#main7 {
+	width: 1000px;
+	float: center;
+	background-color: #bdf7a6; 
+	padding: 1px;
+}
+
+#main7 .seventh {
+	padding-left: 3%;
+	font-size: 20px;
+	padding-right: 3%;
+}
+
+#main7 .hseventh {
+	font-family: copperplate, fantasy;
+	font-size: 60px;
+	padding: 3%;
+	color: #131f13;
+}
+
+#main7 .step7 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#footer {
+	clear: both;
+	padding: 10px;
+	background-color: black;
+	color: white;
+	font-size: 100%;
+}
